@@ -1,0 +1,6 @@
+C:\Users\donat\RiderProjects\Ball\Ball\bin\Debug\Ball.exe
+C:\Users\donat\RiderProjects\Ball\Ball\bin\Debug\Ball.pdb
+C:\Users\donat\RiderProjects\Ball\Ball\obj\Debug\Ball.csprojAssemblyReference.cache
+C:\Users\donat\RiderProjects\Ball\Ball\obj\Debug\Ball.csproj.CoreCompileInputs.cache
+C:\Users\donat\RiderProjects\Ball\Ball\obj\Debug\Ball.exe
+C:\Users\donat\RiderProjects\Ball\Ball\obj\Debug\Ball.pdb
